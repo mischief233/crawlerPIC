@@ -23,7 +23,7 @@ import ImageDown
 aa = ImageDown.ImageDownloader()
 #cy1为自定义词库
 cy1 = []
-aa.runMT(cy1,'./楼道20230404/bad')
+aa.run(cy1,'./楼道20230404/bad')
 ```
 
 2. 多个线程
